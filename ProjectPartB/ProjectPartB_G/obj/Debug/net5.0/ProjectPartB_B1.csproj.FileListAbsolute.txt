@@ -1,0 +1,31 @@
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_G\bin\Debug\net5.0\ProjectPartB_B1.exe
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_G\bin\Debug\net5.0\ProjectPartB_B1.deps.json
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_G\bin\Debug\net5.0\ProjectPartB_B1.runtimeconfig.json
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_G\bin\Debug\net5.0\ProjectPartB_B1.runtimeconfig.dev.json
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_G\bin\Debug\net5.0\ProjectPartB_B1.dll
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_G\bin\Debug\net5.0\ref\ProjectPartB_B1.dll
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_G\bin\Debug\net5.0\ProjectPartB_B1.pdb
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_G\obj\Debug\net5.0\ProjectPartB_B1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_G\obj\Debug\net5.0\ProjectPartB_B1.AssemblyInfoInputs.cache
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_G\obj\Debug\net5.0\ProjectPartB_B1.AssemblyInfo.cs
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_G\obj\Debug\net5.0\ProjectPartB_B1.csproj.CoreCompileInputs.cache
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_G\obj\Debug\net5.0\ProjectPartB_B1.dll
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_G\obj\Debug\net5.0\ref\ProjectPartB_B1.dll
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_G\obj\Debug\net5.0\ProjectPartB_B1.pdb
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_G\obj\Debug\net5.0\ProjectPartB_B1.genruntimeconfig.cache
+C:\Users\diamo\Documents\Systemutvecklare .NET\ProjectPartB\ProjectPartB_G\bin\Debug\net5.0\ProjectPartB_B1.exe
+C:\Users\diamo\Documents\Systemutvecklare .NET\ProjectPartB\ProjectPartB_G\bin\Debug\net5.0\ProjectPartB_B1.deps.json
+C:\Users\diamo\Documents\Systemutvecklare .NET\ProjectPartB\ProjectPartB_G\bin\Debug\net5.0\ProjectPartB_B1.runtimeconfig.json
+C:\Users\diamo\Documents\Systemutvecklare .NET\ProjectPartB\ProjectPartB_G\bin\Debug\net5.0\ProjectPartB_B1.runtimeconfig.dev.json
+C:\Users\diamo\Documents\Systemutvecklare .NET\ProjectPartB\ProjectPartB_G\bin\Debug\net5.0\ProjectPartB_B1.dll
+C:\Users\diamo\Documents\Systemutvecklare .NET\ProjectPartB\ProjectPartB_G\bin\Debug\net5.0\ref\ProjectPartB_B1.dll
+C:\Users\diamo\Documents\Systemutvecklare .NET\ProjectPartB\ProjectPartB_G\bin\Debug\net5.0\ProjectPartB_B1.pdb
+C:\Users\diamo\Documents\Systemutvecklare .NET\ProjectPartB\ProjectPartB_G\obj\Debug\net5.0\ProjectPartB_B1.csproj.AssemblyReference.cache
+C:\Users\diamo\Documents\Systemutvecklare .NET\ProjectPartB\ProjectPartB_G\obj\Debug\net5.0\ProjectPartB_B1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diamo\Documents\Systemutvecklare .NET\ProjectPartB\ProjectPartB_G\obj\Debug\net5.0\ProjectPartB_B1.AssemblyInfoInputs.cache
+C:\Users\diamo\Documents\Systemutvecklare .NET\ProjectPartB\ProjectPartB_G\obj\Debug\net5.0\ProjectPartB_B1.AssemblyInfo.cs
+C:\Users\diamo\Documents\Systemutvecklare .NET\ProjectPartB\ProjectPartB_G\obj\Debug\net5.0\ProjectPartB_B1.csproj.CoreCompileInputs.cache
+C:\Users\diamo\Documents\Systemutvecklare .NET\ProjectPartB\ProjectPartB_G\obj\Debug\net5.0\ProjectPartB_B1.dll
+C:\Users\diamo\Documents\Systemutvecklare .NET\ProjectPartB\ProjectPartB_G\obj\Debug\net5.0\ref\ProjectPartB_B1.dll
+C:\Users\diamo\Documents\Systemutvecklare .NET\ProjectPartB\ProjectPartB_G\obj\Debug\net5.0\ProjectPartB_B1.pdb
+C:\Users\diamo\Documents\Systemutvecklare .NET\ProjectPartB\ProjectPartB_G\obj\Debug\net5.0\ProjectPartB_B1.genruntimeconfig.cache

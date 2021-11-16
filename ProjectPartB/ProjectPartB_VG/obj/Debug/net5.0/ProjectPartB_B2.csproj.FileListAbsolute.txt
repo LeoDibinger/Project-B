@@ -1,0 +1,15 @@
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_VG\bin\Debug\net5.0\ProjectPartB_B2.exe
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_VG\bin\Debug\net5.0\ProjectPartB_B2.deps.json
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_VG\bin\Debug\net5.0\ProjectPartB_B2.runtimeconfig.json
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_VG\bin\Debug\net5.0\ProjectPartB_B2.runtimeconfig.dev.json
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_VG\bin\Debug\net5.0\ProjectPartB_B2.dll
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_VG\bin\Debug\net5.0\ref\ProjectPartB_B2.dll
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_VG\bin\Debug\net5.0\ProjectPartB_B2.pdb
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_VG\obj\Debug\net5.0\ProjectPartB_B2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_VG\obj\Debug\net5.0\ProjectPartB_B2.AssemblyInfoInputs.cache
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_VG\obj\Debug\net5.0\ProjectPartB_B2.AssemblyInfo.cs
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_VG\obj\Debug\net5.0\ProjectPartB_B2.csproj.CoreCompileInputs.cache
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_VG\obj\Debug\net5.0\ProjectPartB_B2.dll
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_VG\obj\Debug\net5.0\ref\ProjectPartB_B2.dll
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_VG\obj\Debug\net5.0\ProjectPartB_B2.pdb
+C:\Users\marti\Development\Visual Studio 2019\Projects\Beginner OOP\CSharp Part\ProjectPartB\ProjectPartB_VG\obj\Debug\net5.0\ProjectPartB_B2.genruntimeconfig.cache
